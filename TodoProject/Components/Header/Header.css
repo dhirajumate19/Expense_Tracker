@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(237, 237, 237);
+}
+.navbar {
+  flex-direction: row;
+  background-color: rgb(59, 58, 58);
+  width: 100%;
+  height: auto;
+}
+.nav-item Button {
+  background-color: lightskyblue;
+}
+.nav-link {
+  padding-left: 5px;
+  padding-right: 5px;
+  text-decoration: none;
+  color: rgb(44, 114, 205);
+}
+.nav-link:hover {
+  border-bottom: 1px solid red;
+}
+.nav-item div {
+  float: right;
+}
+.brand {
+  font-size: x-large;
+  color: chocolate;
+  text-decoration: none;
+}

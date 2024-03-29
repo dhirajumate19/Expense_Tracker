@@ -1,0 +1,33 @@
+.main-div{
+}
+.main-div h3{
+  color: sienna;
+  text-align: center;
+  justify-content: center;
+ 
+
+}
+.table{
+   
+        
+        width: 50%;
+        border-collapse: collapse;
+        border: 3px solid rgb(21, 17, 21);
+        margin-left: auto;
+        margin-right: auto;
+}
+thead th,
+tfoot th {
+  font-family: "Rock Salt", cursive;
+}
+td {
+    letter-spacing: 1px;
+    border: 3px solid rgb(0, 0, 0);
+  }
+  tbody td {
+    text-align: center;
+  }
+  
+  tfoot th {
+    text-align: right;
+  }
